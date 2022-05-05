@@ -6,3 +6,4 @@ _i18n/
 _regions/
 
 .DS_Store
+.idea/
